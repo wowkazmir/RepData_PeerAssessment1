@@ -90,12 +90,16 @@ the dataset.
 
 1. Make a histogram of the total number of steps taken each day
 
+![Histogram1](instructions_fig/plot1.png) 
+
 2. Calculate and report the **mean** and **median** total number of steps taken per day
 
 
 ### What is the average daily activity pattern?
 
 1. Make a time series plot (i.e. `type = "l"`) of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all days (y-axis)
+
+![Time series plot](instructions_fig/plot2.png) 
 
 2. Which 5-minute interval, on average across all the days in the dataset, contains the maximum number of steps?
 
@@ -114,6 +118,7 @@ bias into some calculations or summaries of the data.
 
 4. Make a histogram of the total number of steps taken each day and Calculate and report the **mean** and **median** total number of steps taken per day. Do these values differ from the estimates from the first part of the assignment? What is the impact of imputing missing data on the estimates of the total daily number of steps?
 
+![Histogram2](instructions_fig/plot3.png) 
 
 ### Are there differences in activity patterns between weekdays and weekends?
 
@@ -124,7 +129,7 @@ the dataset with the filled-in missing values for this part.
 
 1. Make a panel plot containing a time series plot (i.e. `type = "l"`) of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all weekday days or weekend days (y-axis). The plot should look something like the following, which was created using **simulated data**:
 
-![Sample panel plot](instructions_fig/sample_panelplot.png) 
+![Panel plot](instructions_fig/plot4.png) 
 
 
 **Your plot will look different from the one above** because you will
